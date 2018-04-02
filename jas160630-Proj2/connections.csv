@@ -1,0 +1,5 @@
+servers,dc01,4321
+servers,dc02,4322
+servers,dc03,4333
+clients,dc04,4334
+meta,dc41,61000
